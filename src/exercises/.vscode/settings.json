@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cheriintrin.h": "c",
+        "stdio.h": "c"
+    }
+}
